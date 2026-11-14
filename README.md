@@ -17,14 +17,6 @@
 
 </div>
 
-### Estatísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=WryKalashnikov&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 <div align="center">
 
 ### ✧ Obrigado por visitar ✧
