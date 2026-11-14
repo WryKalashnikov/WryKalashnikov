@@ -6,7 +6,7 @@
 
 </div>
 
-### 🧰 Tecnologias
+### Tecnologias
 
 <div align="center">
 
@@ -17,7 +17,7 @@
 
 </div>
 
-### 📊 Estatísticas
+### Estatísticas
 
 <div align="center">
 
