@@ -6,18 +6,6 @@
 
 </div>
 
-## ✦ Oi, eu sou o Wry!
-
-> Desenvolvedor apaixonado por código, automações e projetos criativos.
-> Este perfil mistura tecnologia com uma estética anime azul — simples, brilhante e feito do meu jeito.
-
-### ⚡ O que estou fazendo
-
-- 🧩 Criando bots, automações e ferramentas úteis
-- 🛠️ Explorando C++, JavaScript e Python
-- 🌌 Aprendendo algo novo a cada projeto
-- 🎮 Transformando ideias em código
-
 ### 🧰 Tecnologias
 
 <div align="center">
