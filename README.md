@@ -21,14 +21,12 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=WryyyDoPauzao&show_icons=true&hide_border=true&bg_color=071a3d&title_color=90caf9&icon_color=76c7ff&text_color=e3f2fd&ring_color=76c7ff"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WryyyDoPauzao&layout=compact&hide_border=true&bg_color=071a3d&title_color=90caf9&text_color=e3f2fd"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=WryyyDoPauzao&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=WryyyDoPauzao&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WryyyDoPauzao&bg_color=071a3d&color=90caf9&line=76c7ff&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 ### ✧ Obrigado por visitar ✧
 
