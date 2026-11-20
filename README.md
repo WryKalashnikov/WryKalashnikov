@@ -19,7 +19,7 @@
 
 <div align="center">
 
-### ✧ Obrigado por visitar ✧
+### ✧ Thanks ✧
 
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="180" alt="anime blue wave"/>
 
